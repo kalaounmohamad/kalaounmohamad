@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamad Kalaoun</h1>
 <h3 align="center">A passionate Computer Engineering Student | Full Stack Developer from Lebanon</h3>
 
-- 🔭 I’m currently working on a [School Management System for an NGO in Lebanon](https://github.com/mohamadalzhori/DatabaseProjectDemo)
-
 - 🌱 I’m currently advancing my skills in **Java**
 
 - 📫 How to reach me **kalaounmohamad@hotmail.com**
