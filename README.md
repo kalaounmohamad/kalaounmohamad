@@ -11,7 +11,8 @@
 
 - ⚡ Fun fact: **I think I am funny 😁**
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/mohamad-kalaoun</h3> 
+### Connect with me
+[LinkedIn](https://www.linkedin.com/in/mohamad-kalaoun)
 
 <p align="left">
 </p>
