@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mohamad-kalaoun/](https://www.linkedin.com/in/mohamad-kalaoun/)
 
-- ⚡ Fun fact: **I think I am funny 😁**
+- ⚡ **Enjoy the Process**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
