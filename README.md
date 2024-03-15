@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalaounmohamad&label=Profile%20views&color=0e75b6&style=flat" alt="richard-younes" /> </p>
 
 
-- 🌱 I’m currently advancing my skills in **Java**
-
 - 📫 How to reach me **kalaounmohamad@hotmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mohamad-kalaoun/](https://www.linkedin.com/in/mohamad-kalaoun/)
