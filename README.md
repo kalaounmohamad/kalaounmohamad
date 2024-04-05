@@ -1,9 +1,25 @@
 <h1 align="center">Hi 👋, I'm Mohamad Kalaoun</h1>
-      <h3 align="center">
-        A passionate Computer Engineering Student | Full Stack Developer from
-        Lebanon
-      </h3>
-      <p align="left">
+<h3 align="center">A passionate Computer Engineering Student | Full Stack Developer from Lebanon</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalaounmohamad&label=Profile%20views&color=0e75b6&style=flat" alt="mohamad-kalaoun" /> </p>
+
+
+- 📫 How to reach me **kalaounmohamad@hotmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/mohamad-kalaoun/](https://www.linkedin.com/in/mohamad-kalaoun/)
+
+- ⚡ **Enjoy the Process**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mohamad-kalaoun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamad-kalaoun" height="30" width="40" /></a>
+</p>
+
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
         <img
           src="https://komarev.com/ghpvc/?username=kalaounmohamad&label=Profile%20views&color=0e75b6&style=flat"
           alt="mohamad-kalaoun"
@@ -226,10 +242,6 @@
           />
         </a>
       </p>
-      <p>
-        <img
-          align="center"
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=kalaounmohamad&show_icons=true&theme=dark&locale=en&layout=compact"
-          alt="kalaounmohamad"
-        />
-      </p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalaounmohamad&show_icons=true&theme=dark&locale=en&layout=compact" alt="kalaounmohamad" /></p>
