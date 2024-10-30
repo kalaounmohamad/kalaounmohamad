@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kalaounmohamad@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mohamad-kalaoun/](https://www.linkedin.com/in/mohamad-kalaoun/)
+- 📄 Check out my experiences [https://www.linkedin.com/in/mohamad-kalaoun/](https://www.linkedin.com/in/mohamad-kalaoun/)
 
 - ⚡ **Enjoy the Process**
 
