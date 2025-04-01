@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamad Kalaoun</h1>
-<h3 align="center">A passionate Computer Engineering Student | Full Stack Developer from Lebanon</h3>
+<h3 align="center">A passionate Computer Engineering Student | Full Stack Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalaounmohamad&label=Profile%20views&color=0e75b6&style=flat" alt="mohamad-kalaoun" /> 
-      <a href="https://user-badge.committers.top/lebanon/kalaounmohamad" target="_blank">
-  <img src="https://user-badge.committers.top/lebanon/kalaounmohamad.svg" alt="committers.top badge" />
 </a></p>
 
 
