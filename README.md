@@ -84,8 +84,3 @@ software and IoT systems at **CERN** (Geneva), where reliability isn't optional.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalaounmohamad&show_icons=true&theme=dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalaounmohamad&layout=compact&theme=dark&hide_border=true" height="165"/>
-</p>
