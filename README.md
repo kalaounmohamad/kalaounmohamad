@@ -13,8 +13,8 @@ I build full-stack products and connect them to the physical world. Currently en
 software and IoT systems at **CERN** (Geneva), where reliability isn't optional.
 
 - 🔭 **Now:** full-stack + IoT systems at CERN, and building AI agents/automations on the side
-- 🌱 **Focused on:** applied LLM agents, real-time data pipelines, systems that run unattended
-- 💬 **Ask me about:** React/Next.js, Django/Flask, IoT sensor pipelines, Kafka/MQTT
+- 🌱 **Focused on:** systems that run unattended, real-time data pipelines, applied LLM agents 
+- 💬 **Ask me about:** Systems Architecture, data pipelines, automations 
 - 📫 **Reach me:** kalaounmohamad@hotmail.com
 
 ## 🛠️ Tech I work with
